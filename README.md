@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-   <img src="https://media.giphy.com/media/DhstvI3zZ598Nb1rFf/giphy.gif" alt="Some of the The Office cast dancing" title="Engineering chapter's head GIF" />
+   <img src="https://i.giphy.com/media/KN8l2wV2zp3joHtog3/giphy.webp" alt="Dwight (from The Office) saying that he is older and wiser now" title="Engineering chapter's head GIF" />
   <br>
 </p>
 <p align="center">
